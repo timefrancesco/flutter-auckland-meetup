@@ -1,7 +1,12 @@
 # Flutter Auckland
 A list of resources and examples presented at the flutter Auckland meetup.  
 
-[Meetup homepage](https://www.meetup.com/Flutter-Auckland/)
+[Meetup homepage](https://www.meetup.com/Flutter-Auckland/)  
+
+### 2018/10/17 Layouts walkthrough - meetup
+[Layout demo app](https://github.com/bizz84/layout-demo-flutter)  
+[Meetup slides](https://docs.google.com/presentation/d/1GmNSKIBmCXXfCYGAoFwJatchNfHnS64R1ve8dg9QT98/)  
+[Event page](https://www.meetup.com/Flutter-Auckland/events/254950323/)  
 
 ### 2018/09/05 Let's flutter again - meetup
 [Movie list examples](https://github.com/nonameden/lets_flutter_2)  
